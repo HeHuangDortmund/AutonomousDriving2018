@@ -1,12 +1,12 @@
-# First Project for Autonomous Driving--2017.12.20  
+# First Project for Autonomous Driving
 
-## Content:
-This project is the first project for autonomous driving. It contains the following technologie:
-+ python & opencv
-+ deep learning
-+ tensorflow + keras
+## Content:  
+This project is the first project for autonomous driving. It contains the following technologie:  
++ python & opencv  
++ deep learning  
++ tensorflow + keras  
 
 ## Goal:  
-+ road intersection detection
-+ car localization
-+ path planning
++ road intersection detection  
++ car localization  
++ path planning  
